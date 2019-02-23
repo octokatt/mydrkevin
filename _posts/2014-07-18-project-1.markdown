@@ -1,0 +1,15 @@
+---
+title: Managing the Gift
+subtitle: Of Your ADD/ADHD Child
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: mtg_child.jpg
+thumbnail: mtg_child_thumbnail.png
+alt: image-alt
+project-date: September 2011
+client: Children with ADD/ADHD
+category: Self-help
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
